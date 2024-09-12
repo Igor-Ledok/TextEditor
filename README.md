@@ -1,23 +1,21 @@
 # TextEdit
 
-TextEdit — это простой текстовый редактор на Qt, написанный на C++. Он позволяет создавать, открывать, редактировать и сохранять текстовые файлы. Этот проект служит хорошим примером использования Qt для создания графических приложений.
+TextEdit is a simple text editor built with Qt and written in C++. It allows you to create, open, edit, and save text files. This project serves as a good example of using Qt to create graphical applications.
 
-## Функции
+## Features
 
-- Создание нового документа
-- Открытие существующих файлов
-- Сохранение текущего документа
-- Сохранение документа под новым именем
-- Основные операции редактирования (вырезать, копировать, вставить)
-- О программе (информация о приложении)
+- Create a new document
+- Open existing files
+- Save the current document
+- Save the document under a new name
+- Basic editing operations (cut, copy, paste)
+- About (application information)
 
-## Установка
+### Dependencies
 
-### Предварительные требования
+- Install [Qt](https://www.qt.io/download) and [CMake](https://cmake.org/download).
 
-- Установите [Qt](https://www.qt.io/download) и [CMake](https://cmake.org/download).
-
-### Клонирование репозитория
+### Cloning the Repository
 
 ```bash
 git clone https://github.com/Igor-Ledok/TextEdit.git
