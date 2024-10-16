@@ -21,7 +21,7 @@ TextEdit is a simple text editor built with Qt and written in C++.
 - Install Qt and CMake.
 
 ## Cloning the Repository
-=======
+- Improved visuals
 - Basic editing operations (cut, copy, paste)
 - About (application information)
 
